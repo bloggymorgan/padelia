@@ -1,4 +1,4 @@
-g# Padelia
+# Padelia
 
 Final project for the Building AI course.
 

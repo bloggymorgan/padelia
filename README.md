@@ -1,6 +1,6 @@
 # Padelia
 
-Final project for the Building AI course.
+A “Building AI course project” 
 
 ## Summary
 

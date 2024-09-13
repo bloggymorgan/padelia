@@ -141,4 +141,4 @@ To achieve these goals, Padelia would need additional resources, including:
 
 ## Acknowledgments
 
-Pending
+* [Building AI course](https://buildingai.elementsofai.com/)
